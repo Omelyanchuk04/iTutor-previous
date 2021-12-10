@@ -1,0 +1,179 @@
+ html {
+ font-family:helvetica;
+}
+* {
+	box-sizing: border-box;
+}
+
+
+
+
+.header {
+	background:#696969;
+	height:45px;
+	padding: 0;
+    margin-top: -22px;
+    margin-left: -8px;
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+    background-size: cover;
+    background-position: top center;
+    margin-bottom: 10px;
+    position: fixed;
+    opacity: .9;
+    float: left;
+    position: absolute;
+
+}
+
+
+.content-1 {
+    width: 100%;
+    min-height: 350px;
+
+}
+
+.left {
+    float: left;
+    width: 50%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.right {
+    float: left;
+    width: 50%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.block-1 {
+    background-color: #f7fafa;
+    min-height: 350px;
+    width: 98%;
+    margin: auto;
+    padding-top: 20px;
+    opacity: .9;
+    vertical-align: middle;
+}
+
+.img-1 {
+   max-width: 170px;
+}
+
+
+.block-2 {
+    background-color: #f7fafa;
+    min-height: 350px;
+    width: 98%;
+    margin: auto;
+    padding-top: 20px;
+    opacity: .9;
+    vertical-align: middle;
+}
+
+.img-2 {
+    max-width: 180px;
+}
+
+.content-2 {
+    width: 100%;
+    min-height: 350px;
+}
+
+
+.left-2 {
+    float: left;
+    width: 50%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.right-2 {
+    float: left;
+    width: 50%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.block-3 {
+    background-color: #f7fafa;
+    min-height: 350px;
+    width: 98%;
+    margin: auto;
+    padding-top: 20px;
+    opacity: .9;
+    vertical-align: middle;
+}
+
+.img-3 {
+    max-width:170px;
+}
+
+
+.block-4 {
+    background-color: #f7fafa;
+    min-height: 350px;
+    width: 98%;
+    margin: auto;
+    padding-top: 20px;
+    opacity: .9;
+    vertical-align: middle;
+}
+
+.img-4 {
+    width: 170px;
+}
+
+.content-3 {
+    width: 100%;
+    min-height: 350px;
+}
+
+
+.left-3 {
+    float: left;
+    width: 50%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.right-3 {
+    float: left;
+    width: 50%;
+    min-height: 300px;
+    text-align: center;
+}
+
+.block-5 {
+    background-color: #f7fafa;
+    min-height: 350px;
+    width: 98%;
+    margin: auto;
+    padding-top: 20px;
+    opacity: .9;
+    vertical-align: middle;
+}
+
+.img-5 {
+    max-width: 170px;
+}
+
+.block-6 {
+    background-color: #f7fafa;
+    min-height: 350px;
+    width: 98%;
+    margin: auto;
+    padding-top: 20px;
+    opacity: .9;
+    vertical-align: middle;
+}
+
+.img-6 {
+    max-width: 170px;
+}
+
+.footer {
+    height: 50px;
+}
